@@ -1,7 +1,7 @@
 # GetCourse-PHP-SDK
 Библиотека [GetCourse.ru](http://getcourse.ru) для доступа к API
 
-Лицензия: Apache2
+Лицензия: Apache-2.0
 
 Системные требования:
 
@@ -15,7 +15,7 @@
 
 ```
 "require": {
-  "getcourse-ru/GetCourse-PHP-SDK": "*"
+  "ruvents/getcourse-php-sdk": "*"
 }
 ```
 ##Пример использования
